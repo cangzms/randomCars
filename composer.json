@@ -1,0 +1,19 @@
+{
+    "name": "cangzms/cars",
+    "description": "Random car brand and model generator.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cangzms",
+            "email": "ismailcangezmis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomCars\\": "src/"
+
+        }
+    },
+    "require": {}
+}
